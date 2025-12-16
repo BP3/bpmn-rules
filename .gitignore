@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+*.csv
+
+*.bpmn
+*.dmn
+
+.*lintrc
+.npmrc
+
+.idea/
+_TRASH_/
+
+!test/**/*.*mn
